@@ -1,5 +1,3 @@
-Tag a copy of one album. Kid3 will not download the song to fill a gap. Leave a file unmatched rather than forcing the nearest release. A compilation and a studio album can share a title. Read the track count before you save. Forcing the nearest album renames a live tape into the wrong songs.
-
 # Kid3 - Tags on Audio You Already Own
 
 Kid3 edits the title, artist, and album tags inside audio files you already have. A lookup can suggest names from public data. It does not download the songs. Save tags only when the suggested album matches the files in front of you, and try one album on a copy first.
